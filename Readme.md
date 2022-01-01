@@ -80,7 +80,7 @@ The heuristic function is correct and not useless.
 
 ## Screenshots of solved maze
 ### Unsolved (1) is path (0) is a wall
-![alt text](initialmaze.PNG)
+![alt text](./AStart/initialmaze.PNG)
 ### Solved (0) is path (1) is a wall
 ![alt text](Solved.PNG)
 
