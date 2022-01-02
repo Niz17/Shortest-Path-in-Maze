@@ -80,9 +80,9 @@ The heuristic function is correct and not useless.
 
 ## Screenshots of solved maze
 ### Unsolved (1) is path (0) is a wall
-![alt text](initialmaze.PNG)
+![alt text](./AStart/initialmaze.PNG)
 ### Solved (0) is path (1) is a wall
-![alt text](Solved.PNG)
+![alt text](./AStart/Solved.PNG)
 
 
 ## Analysis
@@ -90,9 +90,9 @@ The time complexity is O(n^2) at worst according to Geek for Geeks. This is unde
 
 We graph out the output of the size of graph and its time and # of steps it took to traverse through: (4 datapoint for each size)
 
-![alt text](nodewalked.PNG)
+![alt text](./AStart/nodewalked.PNG)
 
-![alt text](time.PNG)
+![alt text](./AStart/time.PNG)
 
 
 ### Works Cited
